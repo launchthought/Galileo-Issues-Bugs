@@ -2,7 +2,7 @@
 The Galileo app got stuck on the loading screen after leaving it open for a period of time.
 
 **What did you expect to happen?**
-I expected to return to my computer to see Galileo still running and functioning as normal.
+To return to my computer and see Galileo still running/functioning as normal.
 
 **How can someone else reproduce this?**
 
